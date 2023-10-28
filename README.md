@@ -16,5 +16,5 @@ To contact me quickly and easily, [DM me on Twitter](https://twitter.com/samcode
 
 If it is a more professional enquiry, you can also email me:
 
-**General Inquiries:** samcodes.net@gmail.com
+**General Inquiries:** sam@samcodes.net
 **AV-related Inquiries:** sam@auroravirtual.uk
