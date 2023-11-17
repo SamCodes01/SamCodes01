@@ -12,9 +12,10 @@ As a full-stack developer, my proficiency spans both front-end and back-end deve
 
 ## 📫 Contact
 
-To contact me quickly and easily, [DM me on Twitter](https://twitter.com/samcodes0).
+To contact me quickly and easily, [DM me on Twitter](https://twitter.com/samcodes0) or [Email me](mailto:sam@samcodes.net)
 
 If it is a more professional enquiry, you can also email me:
 
 **General Inquiries:** sam@samcodes.net
 **AV-related Inquiries:** sam@auroravirtual.uk
+**aeroX Network Inquiries:** sam@aeroxnetwork.com
