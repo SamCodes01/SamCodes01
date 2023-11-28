@@ -18,4 +18,3 @@ If it is a more professional enquiry, you can also email me:
 
 **General Inquiries:** sam@samcodes.net
 **AV-related Inquiries:** sam@auroravirtual.uk
-**aeroX Network Inquiries:** sam@aeroxnetwork.com
