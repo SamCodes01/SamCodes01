@@ -4,7 +4,7 @@ I'm a 16 year old developer.
 
 ## 🔭 Current
 
-I'm currently working on [Aurora Virtual](https://auroravirtual.uk), powered by aeroBeatX (an aeroX Production), is more than just a music streaming app – it’s your gateway to an immersive sonic journey. Experience seamless streaming on the web, iOS, Android, Windows, and Mac platforms. Our user-friendly interface and cutting-edge technology redefine how you connect with music. Join us and explore a world where melodies thrive and community flourishes. Welcome to Aurora Virtual – where music meets innovation! :)
+I'm currently working on [Aurora Virtual](https://auroravirtual.uk), powered by aeroBeatX [an aeroX Production](https://aeroxnetwork.com), is more than just a music streaming app – it’s your gateway to an immersive sonic journey. Experience seamless streaming on the web, iOS, Android, Windows, and Mac platforms. Our user-friendly interface and cutting-edge technology redefine how you connect with music. Join us and explore a world where melodies thrive and community flourishes. Welcome to Aurora Virtual – where music meets innovation! :)
 
 ## ⚡️ Experience
 
